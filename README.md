@@ -3,6 +3,8 @@
 This Power BI dashboard provides a comprehensive analysis of hotel performance across various dimensions such as **revenue**, **occupancy**, **customer ratings**, and **geographic distribution**.
 
 ![image](https://github.com/user-attachments/assets/809a70d8-573f-418d-96b1-f0a04fc288ed)
+![image](https://github.com/user-attachments/assets/aecbd91c-c598-4bb5-8edc-b66b32f2e3c8)
+
 
 # 📊Key Insights & Features
 
