@@ -4,7 +4,8 @@ This Power BI dashboard provides a comprehensive analysis of hotel performance a
 
 ![image](https://github.com/user-attachments/assets/809a70d8-573f-418d-96b1-f0a04fc288ed)
 
-After click on show fiters:
+**After click on show fiters:**
+
 ![image](https://github.com/user-attachments/assets/aecbd91c-c598-4bb5-8edc-b66b32f2e3c8)
 
 
