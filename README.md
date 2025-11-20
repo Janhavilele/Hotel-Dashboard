@@ -1,63 +1,138 @@
 # 🏨Hotel-Dashboard
 
-This Power BI dashboard provides a comprehensive analysis of hotel performance across various dimensions such as **revenue**, **occupancy**, **customer ratings**, and **geographic distribution**.
+**1. Project Title:** _Hotel Business Performance Dashboard_
 
-![image](https://github.com/user-attachments/assets/809a70d8-573f-418d-96b1-f0a04fc288ed)
+A dynamic one-page Power BI dashboard designed to analyze hotel revenue, occupancy, customer ratings, and city-wise business performance.
+
+
+**2. Purpose**
+
+- The Hotel Business Performance Dashboard provides a unified view of hotel operations by analyzing revenue trends, occupancy levels, customer satisfaction, and geographic performance.
+- It helps hotel managers, analysts, and decision-makers quickly identify high-performing areas and uncover improvement opportunities.
+
+
+**3. Tech Stack:**
+
+The dashboard was built using the following tools and technologies:
+
+📊 Power BI Desktop – Core visualization tool for dashboard creation
+
+📂 Power Query – Data cleaning, shaping, and transformation
+
+🧠 DAX (Data Analysis Expressions) – KPI calculations, dynamic measures & time intelligence
+
+🏗️ Data Modeling – Fact & dimension tables with star schema
+
+💾 File Format – .pbix (dashboard) + .png (preview images)
+
+
+**4. Data Source:**
+
+Cleaned and aggregated hotel booking data from a structured dataset.
+
+The project utilizes:
+
+fact_bookings – Booking-level data
+
+fact_aggregated_bookings – Revenue and occupancy summaries
+
+dim_hotels – Hotel details
+
+dim_rooms – Room categories and pricing
+
+dim_date – Calendar table for time-based analysis
+
+The dataset includes revenue values, occupancy percentages, customer ratings, booking trends, and hotel location details.
+
+
+**5. Features:**
+   
+**• Business Problem**
+
+Hotel chains struggle to monitor performance across cities, room classes, and categories in a unified format.
+
+**Key questions such as:**
+
+1. Which cities contribute the most revenue?
+2. Which room categories perform best?
+3. How do occupancy and ratings shift over time?
+
+**• Goal of the Dashboard:**
+
+- To provide an interactive, one-page visual tool that:
+
+- Tracks revenue, occupancy, and customer ratings
+
+- Identifies top-performing cities and hotels
+
+- Enables detailed drill-through for property-level insights
+
+- Helps revenue managers plan strategies based on trends and patterns
+
+**• Walkthrough of Key Visuals:**
+
+**i) KPI Summary (Top Section):**
+
+Shows the core hotel performance metrics:
+
+- Total Revenue
+
+- Average Occupancy Rate
+
+- Average Customer Rating
+
+**ii) Weekly Revenue Trends (Line Chart):**
+
+- Displays business vs. luxury segment trends and Helps identify peak and low-performing weeks
+
+**iii)City-wise Performance (Map Visual):**
+
+- Shows revenue distribution across cities also allows users to explore geographic trends
+
+**iv) Revenue by Room Category & Class (Bar/Column Charts):**
+
+- Compare economic, premium, and luxury categories which evaluates profitability across room classes
+
+**v) Drill-Through Feature:**
+
+Clicking a city/category shows:
+
+- Property-wise revenue
+
+- Occupancy patterns
+
+- Ratings comparison
+
+**vi) Interactive Filters & Buttons:**
+
+- Toggle room categories
+
+- Navigate between views
+
+- Apply multi-level filtering
+
+
+• **Business Impact & Insights**
+
+1) Revenue Optimization: Identify top revenue-generating cities and room types
+
+2) Occupancy Improvement: Spot low-performing weeks for targeted campaigns
+
+3) Customer Satisfaction: Analyze rating patterns to drive service improvements
+
+4)Strategic Expansion: Helps identify high-potential cities for scaling
+
+
+
+**6. Screenshot:**
+
+![Hotel Dashboard Screenshot](https://github.com/user-attachments/assets/809a70d8-573f-418d-96b1-f0a04fc288ed)
 
 **After click on show fiters:**
 
-![image](https://github.com/user-attachments/assets/aecbd91c-c598-4bb5-8edc-b66b32f2e3c8)
+![Hotel Dashboard Screenshot](https://github.com/user-attachments/assets/aecbd91c-c598-4bb5-8edc-b66b32f2e3c8)
 
 
-# 📊Key Insights & Features
-
-- **Revenue Overview**  
-  - Total revenue generated: **1.71 billion**
-  - Revenue breakdown by **room category**, **room class**, and **city**
-
-- **Occupancy Rate**
-  - Average occupancy rate across properties: **57.87%**
-
-- **Customer Ratings**
-  - Overall average customer rating: **3.62**
-
-- **Time-Based Trends**
-  - Weekly revenue performance segmented by business and luxury categories
-
-- **Geographical Analysis**
-  - City-wise bookings and revenue plotted on an interactive map
-
-- **Drill Through Functionality**
-  - Click on a city or category to view detailed revenue insights by property
-
-- **Dynamic Filtering**
-  - Buttons to toggle filters and navigate between views
-
-# 🛠️ Tools & Technologies Used
-
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling** using fact and dimension tables
-- **Map Visualizations** for location insights
-
-# 📂 Data Sources
-
-The dashboard uses cleaned and aggregated hotel booking data, consisting of:
-- `fact_bookings` and `fact_aggregated_bookings`
-- `dim_hotels`, `dim_rooms`, and `dim_date`
 
 
-# 🚀 How to Use
-
-1. Download the `.pbix` file.
-2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Explore the Dashboard, Detailed Revenue, and Drill Through tabs.
-4. Use filters and drill-throughs for interactive exploration.
-
-# 📌 Use Case
-
-This dashboard is ideal for:
-- Hotel chain executives to monitor performance
-- Revenue managers to compare city and room class profitability
-- Business analysts exploring booking trends
 
