@@ -15,32 +15,32 @@ A dynamic one-page Power BI dashboard designed to analyze hotel revenue, occupan
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Core visualization tool for dashboard creation
+- Power BI Desktop – Core visualization tool for dashboard creation
 
-📂 Power Query – Data cleaning, shaping, and transformation
+- Power Query – Data cleaning, shaping, and transformation
 
-🧠 DAX (Data Analysis Expressions) – KPI calculations, dynamic measures & time intelligence
+- DAX (Data Analysis Expressions) – KPI calculations, dynamic measures & time intelligence
 
-🏗️ Data Modeling – Fact & dimension tables with star schema
+- Data Modeling – Fact & dimension tables with star schema
 
-💾 File Format – .pbix (dashboard) + .png (preview images)
+- File Format – .pbix (dashboard) + .png (preview images)
 
 
 **4. Data Source:**
 
 Cleaned and aggregated hotel booking data from a structured dataset.
 
-The project utilizes:
+**The project utilizes:**
 
-fact_bookings – Booking-level data
+**fact_bookings** – Booking-level data
 
-fact_aggregated_bookings – Revenue and occupancy summaries
+**fact_aggregated_bookings** – Revenue and occupancy summaries
 
-dim_hotels – Hotel details
+**dim_hotels** – Hotel details
 
-dim_rooms – Room categories and pricing
+**dim_rooms** – Room categories and pricing
 
-dim_date – Calendar table for time-based analysis
+**dim_date** – Calendar table for time-based analysis
 
 The dataset includes revenue values, occupancy percentages, customer ratings, booking trends, and hotel location details.
 
