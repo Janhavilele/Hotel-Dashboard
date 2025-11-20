@@ -57,6 +57,9 @@ Hotel chains struggle to monitor performance across cities, room classes, and ca
 2. Which room categories perform best?
 3. How do occupancy and ratings shift over time?
 
+are difficult to answer quickly using raw data.
+
+
 **• Goal of the Dashboard:**
 
 - To provide an interactive, one-page visual tool that:
@@ -68,6 +71,7 @@ Hotel chains struggle to monitor performance across cities, room classes, and ca
 - Enables detailed drill-through for property-level insights
 
 - Helps revenue managers plan strategies based on trends and patterns
+
 
 **• Walkthrough of Key Visuals:**
 
@@ -120,7 +124,7 @@ Clicking a city/category shows:
 
 3) Customer Satisfaction: Analyze rating patterns to drive service improvements
 
-4)Strategic Expansion: Helps identify high-potential cities for scaling
+4) Strategic Expansion: Helps identify high-potential cities for scaling
 
 
 
