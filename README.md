@@ -46,6 +46,7 @@ The dataset includes revenue values, occupancy percentages, customer ratings, bo
 
 
 **5. Features:**
+
    
 **• _Business Problem_**
 
@@ -60,6 +61,7 @@ Hotel chains struggle to monitor performance across cities, room classes, and ca
 are difficult to answer quickly using raw data.
 
 
+
 **• _Goal of the Dashboard:_**
 
 - To provide an interactive, one-page visual tool that:
@@ -71,6 +73,7 @@ are difficult to answer quickly using raw data.
 - Enables detailed drill-through for property-level insights
 
 - Helps revenue managers plan strategies based on trends and patterns
+
 
 
 **• _Walkthrough of Key Visuals:_**
@@ -114,6 +117,7 @@ Clicking a city/category shows:
 - Navigate between views
 
 - Apply multi-level filtering
+
 
 
 • **_Business Impact & Insights:_**
