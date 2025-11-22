@@ -8,22 +8,22 @@ A dynamic one-page Power BI dashboard designed to analyze hotel revenue, occupan
 **2. Purpose**
 
 - The Hotel Business Performance Dashboard provides a unified view of hotel operations by analyzing revenue trends, occupancy levels, customer satisfaction, and geographic performance.
-- It helps hotel managers, analysts, and decision-makers quickly identify high-performing areas and uncover improvement opportunities.
+- It helps hotel managers, analysts, and decision makers quickly identify high performing areas and uncover improvement opportunities.
 
 
 **3. Tech Stack:**
 
 The dashboard was built using the following tools and technologies:
 
-- Power BI Desktop – Core visualization tool for dashboard creation
+- Power BI Desktop : Core visualization tool for dashboard creation
 
-- Power Query – Data cleaning, shaping, and transformation
+- Power Query : Data cleaning, shaping, and transformation
 
-- DAX (Data Analysis Expressions) – KPI calculations, dynamic measures & time intelligence
+- DAX (Data Analysis Expressions) : KPI calculations, dynamic measures & time intelligence
 
-- Data Modeling – Fact & dimension tables with star schema
+- Data Modeling : Fact & dimension tables with star schema
 
-- File Format – .pbix (dashboard) + .png (preview images)
+- File Format : .pbix (dashboard) + .png (preview images)
 
 
 **4. Data Source:**
@@ -32,15 +32,15 @@ Cleaned and aggregated hotel booking data from a structured dataset.
 
 **The project utilizes:**
 
-**fact_bookings** – Booking-level data
+**fact_bookings** : Booking-level data
 
-**fact_aggregated_bookings** – Revenue and occupancy summaries
+**fact_aggregated_bookings** : Revenue and occupancy summaries
 
-**dim_hotels** – Hotel details
+**dim_hotels** : Hotel details
 
-**dim_rooms** – Room categories and pricing
+**dim_rooms** : Room categories and pricing
 
-**dim_date** – Calendar table for time-based analysis
+**dim_date** : Calendar table for time-based analysis
 
 The dataset includes revenue values, occupancy percentages, customer ratings, booking trends, and hotel location details.
 
@@ -70,7 +70,7 @@ are difficult to answer quickly using raw data.
 
 - Identifies top-performing cities and hotels
 
-- Enables detailed drill-through for property-level insights
+- Enables detailed drill through for property-level insights
 
 - Helps revenue managers plan strategies based on trends and patterns
 
@@ -116,7 +116,7 @@ Clicking a city/category shows:
 
 - Navigate between views
 
-- Apply multi-level filtering
+- Apply multi level filtering
 
 
 
@@ -124,11 +124,11 @@ Clicking a city/category shows:
 
 1) Revenue Optimization: Identify top revenue-generating cities and room types
 
-2) Occupancy Improvement: Spot low-performing weeks for targeted campaigns
+2) Occupancy Improvement: Spot low performing weeks for targeted campaigns
 
 3) Customer Satisfaction: Analyze rating patterns to drive service improvements
 
-4) Strategic Expansion: Helps identify high-potential cities for scaling
+4) Strategic Expansion: Helps identify high potential cities for scaling
 
 
 
