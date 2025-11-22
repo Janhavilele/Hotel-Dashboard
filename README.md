@@ -64,13 +64,13 @@ are difficult to answer quickly using raw data.
 
 **• _Goal of the Dashboard:_**
 
-- To provide an interactive, one-page visual tool that:
+To provide an interactive, one-page visual tool that:
 
 - Tracks revenue, occupancy, and customer ratings
 
 - Identifies top-performing cities and hotels
 
-- Enables detailed drill through for property-level insights
+- Enables detailed drill through for property level insights
 
 - Helps revenue managers plan strategies based on trends and patterns
 
@@ -90,7 +90,7 @@ Shows the core hotel performance metrics:
 
 **ii) Weekly Revenue Trends (Line Chart):**
 
-- Displays business vs. luxury segment trends and Helps identify peak and low-performing weeks
+- Displays business vs. luxury segment trends and Helps identify peak and low performing weeks
 
 **iii)City-wise Performance (Map Visual):**
 
