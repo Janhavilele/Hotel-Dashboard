@@ -23,24 +23,9 @@ The dashboard was built using the following tools and technologies:
 
 - Data Modeling : Fact & dimension tables with star schema
 
-- File Format : .pbix (dashboard) + .png (preview images)
 
 
 **4. Data Source:**
-
-Cleaned and aggregated hotel booking data from a structured dataset.
-
-**The project utilizes:**
-
-**fact_bookings** : Booking-level data
-
-**fact_aggregated_bookings** : Revenue and occupancy summaries
-
-**dim_hotels** : Hotel details
-
-**dim_rooms** : Room categories and pricing
-
-**dim_date** : Calendar table for time-based analysis
 
 The dataset includes revenue values, occupancy percentages, customer ratings, booking trends, and hotel location details.
 
